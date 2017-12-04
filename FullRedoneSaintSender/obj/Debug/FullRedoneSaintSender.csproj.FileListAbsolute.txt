@@ -1,0 +1,16 @@
+C:\Users\Zsolt Nagy\dotNET\PersonalProjects\SaintSenderEpisode2\FullRedoneSaintSender\bin\Debug\FullRedoneSaintSender.exe.config
+C:\Users\Zsolt Nagy\dotNET\PersonalProjects\SaintSenderEpisode2\FullRedoneSaintSender\bin\Debug\FullRedoneSaintSender.exe
+C:\Users\Zsolt Nagy\dotNET\PersonalProjects\SaintSenderEpisode2\FullRedoneSaintSender\bin\Debug\FullRedoneSaintSender.pdb
+C:\Users\Zsolt Nagy\dotNET\PersonalProjects\SaintSenderEpisode2\FullRedoneSaintSender\bin\Debug\S22.Imap.dll
+C:\Users\Zsolt Nagy\dotNET\PersonalProjects\SaintSenderEpisode2\FullRedoneSaintSender\bin\Debug\S22.Mail.dll
+C:\Users\Zsolt Nagy\dotNET\PersonalProjects\SaintSenderEpisode2\FullRedoneSaintSender\bin\Debug\S22.Pop3.dll
+C:\Users\Zsolt Nagy\dotNET\PersonalProjects\SaintSenderEpisode2\FullRedoneSaintSender\bin\Debug\S22.Imap.xml
+C:\Users\Zsolt Nagy\dotNET\PersonalProjects\SaintSenderEpisode2\FullRedoneSaintSender\bin\Debug\S22.Mail.xml
+C:\Users\Zsolt Nagy\dotNET\PersonalProjects\SaintSenderEpisode2\FullRedoneSaintSender\bin\Debug\S22.Pop3.xml
+C:\Users\Zsolt Nagy\dotNET\PersonalProjects\SaintSenderEpisode2\FullRedoneSaintSender\obj\Debug\FullRedoneSaintSender.csprojResolveAssemblyReference.cache
+C:\Users\Zsolt Nagy\dotNET\PersonalProjects\SaintSenderEpisode2\FullRedoneSaintSender\obj\Debug\FullRedoneSaintSender.MailClientGUI.resources
+C:\Users\Zsolt Nagy\dotNET\PersonalProjects\SaintSenderEpisode2\FullRedoneSaintSender\obj\Debug\FullRedoneSaintSender.Properties.Resources.resources
+C:\Users\Zsolt Nagy\dotNET\PersonalProjects\SaintSenderEpisode2\FullRedoneSaintSender\obj\Debug\FullRedoneSaintSender.csproj.GenerateResource.Cache
+C:\Users\Zsolt Nagy\dotNET\PersonalProjects\SaintSenderEpisode2\FullRedoneSaintSender\obj\Debug\FullRedoneSaintSender.csproj.CoreCompileInputs.cache
+C:\Users\Zsolt Nagy\dotNET\PersonalProjects\SaintSenderEpisode2\FullRedoneSaintSender\obj\Debug\FullRedoneSaintSender.exe
+C:\Users\Zsolt Nagy\dotNET\PersonalProjects\SaintSenderEpisode2\FullRedoneSaintSender\obj\Debug\FullRedoneSaintSender.pdb
