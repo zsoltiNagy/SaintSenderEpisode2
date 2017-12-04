@@ -1,6 +1,6 @@
 ﻿namespace FullRedoneSaintSender
 {
-    partial class MailClientGUI
+    partial class Inbox
     {
         /// <summary>
         /// Required designer variable.
@@ -28,45 +28,32 @@
         /// </summary>
         private void InitializeComponent()
         {
-            this.label1 = new System.Windows.Forms.Label();
-            this.listBox1 = new System.Windows.Forms.ListBox();
+            this.InboxListView = new System.Windows.Forms.ListView();
             this.SuspendLayout();
             // 
-            // label1
+            // InboxListView
             // 
-            this.label1.AutoSize = true;
-            this.label1.Location = new System.Drawing.Point(13, 13);
-            this.label1.Name = "label1";
-            this.label1.Size = new System.Drawing.Size(35, 13);
-            this.label1.TabIndex = 0;
-            this.label1.Text = "label1";
+            this.InboxListView.GridLines = true;
+            this.InboxListView.Location = new System.Drawing.Point(12, 13);
+            this.InboxListView.Name = "InboxListView";
+            this.InboxListView.Size = new System.Drawing.Size(817, 238);
+            this.InboxListView.TabIndex = 1;
+            this.InboxListView.UseCompatibleStateImageBehavior = false;
+            this.InboxListView.View = System.Windows.Forms.View.Details;
             // 
-            // listBox1
-            // 
-            this.listBox1.FormattingEnabled = true;
-            this.listBox1.Location = new System.Drawing.Point(13, 47);
-            this.listBox1.Name = "listBox1";
-            this.listBox1.Size = new System.Drawing.Size(259, 199);
-            this.listBox1.TabIndex = 1;
-            // 
-            // MailClientGUI
+            // Inbox
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(284, 261);
-            this.Controls.Add(this.listBox1);
-            this.Controls.Add(this.label1);
-            this.Name = "MailClientGUI";
-            this.Text = "Form1";
+            this.ClientSize = new System.Drawing.Size(840, 261);
+            this.Controls.Add(this.InboxListView);
+            this.Name = "Inbox";
+            this.Text = "Inbox";
             this.ResumeLayout(false);
-            this.PerformLayout();
 
         }
 
         #endregion
-
-        private System.Windows.Forms.Label label1;
-        private System.Windows.Forms.ListBox listBox1;
+        private System.Windows.Forms.ListView InboxListView;
     }
 }
-

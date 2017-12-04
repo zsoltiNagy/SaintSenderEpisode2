@@ -16,7 +16,7 @@ namespace FullRedoneSaintSender
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new MailClientGUI());
+            Application.Run(new Inbox());
         }
     }
 }
